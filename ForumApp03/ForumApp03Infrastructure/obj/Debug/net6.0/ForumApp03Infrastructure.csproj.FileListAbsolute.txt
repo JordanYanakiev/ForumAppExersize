@@ -1,0 +1,14 @@
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\bin\Debug\net6.0\ForumApp03Infrastructure.deps.json
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\bin\Debug\net6.0\ForumApp03Infrastructure.runtimeconfig.json
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\bin\Debug\net6.0\ForumApp03Infrastructure.dll
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\bin\Debug\net6.0\ForumApp03Infrastructure.pdb
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\obj\Debug\net6.0\ForumApp03Infrastructure.csproj.AssemblyReference.cache
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\obj\Debug\net6.0\ForumApp03Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\obj\Debug\net6.0\ForumApp03Infrastructure.AssemblyInfoInputs.cache
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\obj\Debug\net6.0\ForumApp03Infrastructure.AssemblyInfo.cs
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\obj\Debug\net6.0\ForumApp03Infrastructure.csproj.CoreCompileInputs.cache
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\obj\Debug\net6.0\ForumApp03Infrastructure.dll
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\obj\Debug\net6.0\refint\ForumApp03Infrastructure.dll
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\obj\Debug\net6.0\ForumApp03Infrastructure.pdb
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\obj\Debug\net6.0\ForumApp03Infrastructure.genruntimeconfig.cache
+D:\Documents\ASP.NET\ForumApp03\ForumApp03Infrastructure\obj\Debug\net6.0\ref\ForumApp03Infrastructure.dll
